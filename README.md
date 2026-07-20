@@ -9,7 +9,7 @@ happen: verbally, under a little time pressure, with no do-overs mid-sentence.
 
 ---
 
-## Features
+##  Features
 
 -  **Speak your answers** — record directly in the browser, transcribed locally via Whisper
 -  **RAG-based question retrieval** — semantic search over a curated question bank by role, category, and difficulty (ChromaDB + sentence-transformers)
