@@ -1,0 +1,21 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Data / runtime artifacts
+backend/chroma_store/
+backend/sessions.db
+backend/uploads/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

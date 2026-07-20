@@ -1,0 +1,163 @@
+[
+  {
+    "id": "b1",
+    "role": "general",
+    "category": "behavioral",
+    "difficulty": "easy",
+    "question": "Tell me about a time you faced a conflict with a teammate and how you resolved it."
+  },
+  {
+    "id": "b2",
+    "role": "general",
+    "category": "behavioral",
+    "difficulty": "easy",
+    "question": "Describe a project you're most proud of and why."
+  },
+  {
+    "id": "b3",
+    "role": "general",
+    "category": "behavioral",
+    "difficulty": "medium",
+    "question": "Tell me about a time you failed at something. What did you learn?"
+  },
+  {
+    "id": "b4",
+    "role": "general",
+    "category": "behavioral",
+    "difficulty": "medium",
+    "question": "Describe a situation where you had to work under a tight deadline."
+  },
+  {
+    "id": "b5",
+    "role": "general",
+    "category": "behavioral",
+    "difficulty": "hard",
+    "question": "Tell me about a time you disagreed with a decision made by your manager. What did you do?"
+  },
+  {
+    "id": "b6",
+    "role": "general",
+    "category": "behavioral",
+    "difficulty": "medium",
+    "question": "Give an example of a time you took initiative without being asked."
+  },
+  {
+    "id": "sde1",
+    "role": "SDE",
+    "category": "technical",
+    "difficulty": "easy",
+    "question": "Explain the difference between a process and a thread."
+  },
+  {
+    "id": "sde2",
+    "role": "SDE",
+    "category": "technical",
+    "difficulty": "medium",
+    "question": "How would you design a URL shortening service like bit.ly?"
+  },
+  {
+    "id": "sde3",
+    "role": "SDE",
+    "category": "technical",
+    "difficulty": "medium",
+    "question": "Explain how a hash map works and how collisions are handled."
+  },
+  {
+    "id": "sde4",
+    "role": "SDE",
+    "category": "technical",
+    "difficulty": "hard",
+    "question": "Walk me through how you would design a rate limiter for an API."
+  },
+  {
+    "id": "sde5",
+    "role": "SDE",
+    "category": "technical",
+    "difficulty": "medium",
+    "question": "What is the difference between SQL and NoSQL databases, and when would you choose one over the other?"
+  },
+  {
+    "id": "sde6",
+    "role": "SDE",
+    "category": "technical",
+    "difficulty": "easy",
+    "question": "Explain the concept of RESTful APIs and what makes an API RESTful."
+  },
+  {
+    "id": "sde7",
+    "role": "SDE",
+    "category": "technical",
+    "difficulty": "hard",
+    "question": "How would you scale a system that currently handles 1000 requests per second to handle 100,000?"
+  },
+  {
+    "id": "da1",
+    "role": "Data Analyst",
+    "category": "technical",
+    "difficulty": "easy",
+    "question": "What is the difference between INNER JOIN and LEFT JOIN in SQL?"
+  },
+  {
+    "id": "da2",
+    "role": "Data Analyst",
+    "category": "technical",
+    "difficulty": "medium",
+    "question": "How would you detect and handle outliers in a dataset?"
+  },
+  {
+    "id": "da3",
+    "role": "Data Analyst",
+    "category": "technical",
+    "difficulty": "medium",
+    "question": "Explain the difference between correlation and causation, and give an example of how you'd test for it."
+  },
+  {
+    "id": "da4",
+    "role": "Data Analyst",
+    "category": "technical",
+    "difficulty": "hard",
+    "question": "How would you design a dashboard to track key business metrics for a subscription-based product?"
+  },
+  {
+    "id": "da5",
+    "role": "Data Analyst",
+    "category": "technical",
+    "difficulty": "easy",
+    "question": "What's the difference between a primary key and a foreign key?"
+  },
+  {
+    "id": "mle1",
+    "role": "ML Engineer",
+    "category": "technical",
+    "difficulty": "medium",
+    "question": "Explain the bias-variance tradeoff and how you'd address overfitting in a model."
+  },
+  {
+    "id": "mle2",
+    "role": "ML Engineer",
+    "category": "technical",
+    "difficulty": "medium",
+    "question": "How would you evaluate a classification model on an imbalanced dataset?"
+  },
+  {
+    "id": "mle3",
+    "role": "ML Engineer",
+    "category": "technical",
+    "difficulty": "hard",
+    "question": "Walk me through how you would design and deploy a RAG-based Q&A system in production."
+  },
+  {
+    "id": "mle4",
+    "role": "ML Engineer",
+    "category": "technical",
+    "difficulty": "hard",
+    "question": "How would you monitor a deployed ML model for drift, and what would you do if you detected it?"
+  },
+  {
+    "id": "mle5",
+    "role": "ML Engineer",
+    "category": "technical",
+    "difficulty": "easy",
+    "question": "What's the difference between supervised, unsupervised, and reinforcement learning?"
+  }
+]
