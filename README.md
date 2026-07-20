@@ -1,4 +1,4 @@
-# 🎙️ Voice-Based Interview Prep Coach
+#  Voice-Based Interview Prep Coach
 
 An AI-powered interview practice platform that lets you **speak your answers out loud**
 and get instant, structured feedback — combining speech-to-text, RAG-based question
@@ -11,12 +11,12 @@ happen: verbally, under a little time pressure, with no do-overs mid-sentence.
 
 ## Features
 
-- 🎤 **Speak your answers** — record directly in the browser, transcribed locally via Whisper
-- 🧠 **RAG-based question retrieval** — semantic search over a curated question bank by role, category, and difficulty (ChromaDB + sentence-transformers)
-- 📝 **Structured AI feedback** — scored on structure (STAR method), content accuracy, and delivery (pacing, clarity)
-- 🔒 **Privacy-preserving local mode** — run transcription and feedback fully offline via `faster-whisper` + Ollama, no data leaves your machine
-- 📊 **Session tracking** — SQLite-backed history with average score and speaking-pace trends across a practice session
-- 🐳 **One-command deploy** — Docker Compose spins up backend + frontend together
+-  **Speak your answers** — record directly in the browser, transcribed locally via Whisper
+-  **RAG-based question retrieval** — semantic search over a curated question bank by role, category, and difficulty (ChromaDB + sentence-transformers)
+-  **Structured AI feedback** — scored on structure (STAR method), content accuracy, and delivery (pacing, clarity)
+-  **Privacy-preserving local mode** — run transcription and feedback fully offline via `faster-whisper` + Ollama, no data leaves your machine
+-  **Session tracking** — SQLite-backed history with average score and speaking-pace trends across a practice session
+-  **One-command deploy** — Docker Compose spins up backend + frontend together
 
 ---
 
